@@ -61,7 +61,7 @@ function dangNhap(event) {
     alert("Đăng nhập thành công!");
 
     // Chuyển hướng về trang chủ
-    window.location.href = '/HTML/trang chu.html';
+    form.reset();
 }
 
 
