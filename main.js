@@ -60,7 +60,6 @@ function dangNhap(event) {
     // Giả sử đăng nhập thành công, thông báo cho người dùng
     alert("Đăng nhập thành công!");
 
-    // Chuyển hướng về trang chủ
     form.reset();
 }
 
